@@ -1,0 +1,162 @@
+
+.container{
+  border-style: solid;
+  border-width: medium;
+  border: 30px;
+  background-color: light grey;
+  overflow: auto;
+  align-items: center;
+}
+
+
+.jumbotron{
+  position: relative;
+  background-color: black;
+  color: white;
+  text-align: center;
+  height:  350px;
+  width: auto;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 15px;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.img{
+  position: relative;
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  font-family:'Cormorant Garamond', serif;
+}
+
+.well{
+  position: relative;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+.button1{
+    background-color: #45B39D;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 320px;
+    float:inherit;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.button2{
+    background-color: white;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-right: 200px;
+    box-sizing: border-box;
+    text-align: center;
+    float:
+}
+
+#btn{
+  text-align: center;
+}
+
+
+
+.button3{
+    background-color: white;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-right: 200px;
+    box-sizing: border-box;
+    text-align: center;
+    display:table-cell;
+     vertical-align:middle;
+}
+
+h3{
+  font-family:'Cormorant Garamond', serif;
+  font-size: 20px;
+  position: relative;
+  color:#45B39D;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h2{
+font-family: 'Cormorant Garamond', serif;
+font-size: 40px;
+color: #45B39D;
+font-weight: bold;
+text-align: center;
+}
+
+
+h4{
+  font-family: 'Lateef', cursive;
+  font-size: 15px;
+  color: #45B39D;
+  font-style: italic;
+  text-align: center;
+}
+
+.hr{
+  border-style: solid;
+  border-bottom: 100px;
+  border-color: #45B39D;
+  padding: 5px;
+}
+
+#btn2{
+  background-color: #45B39D;
+  padding-right: 40px;
+}
+
+#btn3{
+  background-color: red;
+  padding-right: 40px;
+}
+
+#btn4{
+  background-color: #45B39D;
+}
+
+#btn5{
+  background-color: #45B39D;
+  float:inherit;
+  padding-right: 80px;
+}
+
+#Username{
+  padding: 20px;
+  padding-right: 45px;
+}
+
+#Password{
+  padding: 20px;
+}
+
+.login-form{
+  width: 420px;
+  margin: 30px auto;
+margin-bottom: 15px;
+background: #f7f7f7;
+box-shadow: 0px 2px rgba(0,0,0,0.3);
+padding: 30px;
+height: 500px;
+}
+.signin-btn{
+  font-size: 15px;
+  font-weight: bold;
+
+}
